@@ -18,7 +18,7 @@ const TextCustom = ({ data, style }: TextCustomProps) => {
       style={newStyle}
       className="text-[#858585]"
     >
-      {title} TextCustom TextCustom
+      {title} TextCustom TextCustom 123
     </div>
   );
 };
